@@ -130,6 +130,7 @@ ai_brain.predict(x_n_n)
 
 ## Dataset Information
 
+![image](https://github.com/SaiDarshan2003/basic-nn-model/assets/94692595/af88b823-66d2-45f6-8bb0-64fdf502d8b5)
 
 
 ## OUTPUT
